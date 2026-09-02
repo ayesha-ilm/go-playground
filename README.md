@@ -1,3 +1,5 @@
+## Test 1 -  Ping and Insert Server (with local Go driver)
+
 % go test -v -run TestPing ./
 === RUN   TestPing
 hello
