@@ -14,5 +14,5 @@ PASS
 ok      go-playground-1 0.248s
 
 
-^ to start off I just run base scripts/replSet
+(to start off I just run base scripts/replSet)
 
